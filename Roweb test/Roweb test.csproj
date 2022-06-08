@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>Roweb_test</RootNamespace>
+    <UserSecretsId>c58f65a9-15a9-47dc-badb-e8daa1e5d023</UserSecretsId>
   </PropertyGroup>
 
 </Project>
